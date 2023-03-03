@@ -1,1 +1,2 @@
-echo "welcome to the demo"
+
+echo "thank you"
